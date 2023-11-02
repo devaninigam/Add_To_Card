@@ -1,0 +1,29 @@
+// Get User Action create
+export const GET_USER_PROGRESS = "GET_USER_PROGRESS"
+export const GET_USER_ERROR = "GET_USER_ERROR"
+export const GET_USER_SUCCESS = "GET_USER_SUCCESS"
+
+// Post User Action create
+export const POST_USER_PROGRESS = "POST_USER_PROGRESS"
+export const POST_USER_ERROR = "POST_USER_ERROR"
+export const POST_USER_SUCCESS = "POST_USER_SUCCESS"
+
+// Delete User Action create
+export const DELETE_USER_PROGRESS = "DELETE_USER_PROGRESS"
+export const DELETE_USER_ERROR = "DELETE_USER_ERROR"
+export const DELETE_USER_SUCCESS = "DELETE_USER_SUCCESS"
+
+// Card Post User Action create
+export const CARD_USER_POST_PROGRESS = "CARD_USER_PROGRESS"
+export const CARD_USER_POST_ERROR = "CARD_USER_ERROR"
+export const CARD_USER_POST_SUCCESS = "CARD_USER_SUCCESS"
+
+// Card Get User Action create
+export const CARD_USER_GET_PROGRESS = "CARD_USER_GET_PROGRESS"
+export const CARD_USER_GET_ERROR = "CARD_USER_GET_ERROR"
+export const CARD_USER_GET_SUCCESS = "CARD_USER_GET_SUCCESS"
+
+// Card Get User Action create
+export const CARD_USER_DELETE_PROGRESS = "CARD_USER_DELETE_PROGRESS"
+export const CARD_USER_DELETE_ERROR = "CARD_USER_DELETE_ERROR"
+export const CARD_USER_DELETE_SUCCESS = "CARD_USER_DELETE_SUCCESS"

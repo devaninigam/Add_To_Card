@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "img": "https://m.media-amazon.com/images/I/619wjnAstpL._SX679_.jpg",
+      "name": "Plantex GI Steel",
+      "detail": " Hooks/Towel Holder/Rack/Bathroom",
+      "price": "299",
+      "quantity": "1"
+    },
+    {
+      "id": "2",
+      "img": "https://rukminim2.flixcart.com/image/832/832/l58iaa80/electric-cycle/i/y/f/-original-imagfykthgudy4qz.jpeg?q=70",
+      "name": "Nuze i3",
+      "detail": " 7.5 inches Single Speed Lithium-ion (Li-ion) Electric Cycle",
+      "price": "30,199",
+      "quantity": "1"
+    },
+    {
+      "id": "3",
+      "img": "https://rukminim2.flixcart.com/image/832/832/kpcy5jk0/keyboard/desktop-keyboard/5/l/z/km-2100-zebronics-original-imag3m6zbtjdqp7s.jpeg?q=70",
+      "name": "Elista ELS",
+      "detail": "WK-710 Wired USB Multi-device Keyboard  (Black)",
+      "price": "229",
+      "quantity": "1"
+    },
+    {
+      "id": "4",
+      "img": "https://rukminim2.flixcart.com/image/832/832/kn6cxow0/external-hard-drive/ssd/f/d/s/sdssde61-4t00-g25-sandisk-original-imagfws2dbenut49.jpeg?q=70",
+      "name": "SanDisk",
+      "detail": "E61/1050 Mbs/Window,Mac OS,Android/Portable,Type C Enabled/5 Y Warranty/USB 3.2 1 TB Wired External Solid State Drive ",
+      "price": "7,749",
+      "quantity": "1"
+    },
+    {
+      "id": "5",
+      "img": "https://rukminim2.flixcart.com/image/832/832/jwfa5jk0/pendrive/pendrive/z/f/p/sandisk-sdcz50-128g-i35-original-imafh3xkrrvkpjxm.jpeg?q=70",
+      "name": " 64 GB Pen Drive",
+      "detail": "SanDisk Cruze Blade SDCZ50 64 GB Pen Drive  (Red, Black)",
+      "price": "377",
+      "quantity": "1"
+    },
+    {
+      "id": "6",
+      "img": "https://m.media-amazon.com/images/I/3150P3KQFlL._SY445_SX342_QL70_FMwebp_.jpg",
+      "name": " Apple iPhone 13",
+      "detail": "15 cm (6.1-inch) Super Retina XDR display Cinematic mode adds shallow depth of field",
+      "price": "50,499",
+      "quantity": "1"
+    }
+  ],
+  "card": [
+    {
+      "id": "5",
+      "img": "https://rukminim2.flixcart.com/image/832/832/jwfa5jk0/pendrive/pendrive/z/f/p/sandisk-sdcz50-128g-i35-original-imafh3xkrrvkpjxm.jpeg?q=70",
+      "name": " 64 GB Pen Drive",
+      "detail": "SanDisk Cruze Blade SDCZ50 64 GB Pen Drive  (Red, Black)",
+      "price": "377",
+      "quantity": "1"
+    }
+  ]
+}
